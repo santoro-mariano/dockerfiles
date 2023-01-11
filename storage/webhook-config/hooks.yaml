@@ -1,0 +1,3 @@
+- id: test
+  execute-command: "/usr/local/webhook/scripts/test.sh"
+  command-working-directory: "/usr/local/webhook"

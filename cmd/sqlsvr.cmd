@@ -1,0 +1,1 @@
+docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=h8c1ww17ck' -p 1433:1433 -d --name IDOE_DB --restart=unless-stopped mcr.microsoft.com/mssql/server:2019-latest

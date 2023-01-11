@@ -1,0 +1,1 @@
+docker run --name=papercut -p 25:25 -p 37408:37408 --restart=unless-stopped -d jijiechen/papercut:latest

@@ -1,0 +1,10 @@
+{
+    "host": "zero",
+    "user": "pi",
+    "user-pwd": "raspberry",
+    "locale": "en_US.UTF-8",
+    "timezone": "America/Chicago",
+    "country": "us",
+    "wifi-ssid": "WIFI_SSID",
+    "wifi-psw": "WIFI_PSW"
+}

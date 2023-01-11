@@ -1,0 +1,1 @@
+docker run -it --rm --privileged --name hrz -v ${pwd}:/dev/host hypriot-rpizero
